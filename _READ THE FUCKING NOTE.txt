@@ -1,1 +1,2 @@
-it may not be compiled, but "Hello, World!" outputs correctly
+SOME OF THESE PIECES OF SHIT IS IMPOSSIBLE BE COMPILED
+GO TO CPP.SH TO SEE THE OUTPUT
