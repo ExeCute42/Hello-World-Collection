@@ -1,2 +1,0 @@
-impossible to compile with Visual Studio.
-should work with GCC.
