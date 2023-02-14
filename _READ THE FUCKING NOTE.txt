@@ -1,2 +1,2 @@
-SOME OF THESE PIECES OF SHIT IS IMPOSSIBLE BE TO COMPILED
-GO TO CPP.SH TO SEE THE OUTPUT
+impossible to compile with Visual Studio.
+goto cpp.sh
