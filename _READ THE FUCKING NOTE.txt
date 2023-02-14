@@ -1,2 +1,2 @@
 impossible to compile with Visual Studio.
-goto cpp.sh
+should work with GCC.
